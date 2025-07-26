@@ -1,0 +1,12 @@
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\UI_Automation_Demo.exe.config
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\UI_Automation_Demo.exe
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\UI_Automation_Demo.pdb
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\WebDriver.dll
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Users\13257\source\repos\UI_Automation_Demo\bin\Debug\WebDriver.xml
+C:\Users\13257\source\repos\UI_Automation_Demo\obj\Debug\UI_Automation_Demo.csproj.AssemblyReference.cache
+C:\Users\13257\source\repos\UI_Automation_Demo\obj\Debug\UI_Automation_Demo.csproj.CoreCompileInputs.cache
+C:\Users\13257\source\repos\UI_Automation_Demo\obj\Debug\UI_Autom.912DD5B5.Up2Date
+C:\Users\13257\source\repos\UI_Automation_Demo\obj\Debug\UI_Automation_Demo.exe
+C:\Users\13257\source\repos\UI_Automation_Demo\obj\Debug\UI_Automation_Demo.pdb
